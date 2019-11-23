@@ -1,7 +1,7 @@
 package ua.dp.ort.module2;
 
 public class DataTypes {
-
+    public static final double PI = 3.14;
     public static void main(String[] args) {
         
 //        int a = 1999999999;

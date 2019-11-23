@@ -1,7 +1,7 @@
 package ua.dp.ort.module2;
 
 public class BitAndByte {
-
+    public static final double PI = 3.14;
     public static void main(String[] args) {
 
         // 1 bit   -> 1 or 0
