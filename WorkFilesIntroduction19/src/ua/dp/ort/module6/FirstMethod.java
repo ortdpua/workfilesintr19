@@ -16,6 +16,7 @@ public class FirstMethod {
     }
     
     public static void main(String[] args) {    
+        
         double result = calculateMultiply(2, 5);
         System.out.println(result);
 //        sayHello("Kat", 5);   
